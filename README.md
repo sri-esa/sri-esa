@@ -1,8 +1,8 @@
 ## Hi, I'm Sriesa 🪼
 
-🖥️Computer Science Engineering student
-👽Exploring different Tech skills
-✨Making interesting projects to stay consistent
+🖥️Computer Science Engineering student<br>
+👽Exploring different Tech skills<br>
+✨Making interesting projects to stay consistent<br>
 
 
 ## 🌐 Socials:
