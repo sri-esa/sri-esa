@@ -1,19 +1,9 @@
-## Hi, I'm Sriesa 
+## Hi, I'm Sriesa 🪼
 
-<!--
-**sri-esa/sri-esa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️Computer Science Engineering student
+👽Exploring different Tech skills
+✨Making interesting projects to stay consistent
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriesa) 
@@ -24,9 +14,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=sri-esa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sri-esa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sri-esa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sri-esa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sri-esa&icon=0&color=3)](https://visitcount.itsvg.in)
