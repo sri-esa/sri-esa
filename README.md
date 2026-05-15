@@ -4,10 +4,8 @@
 
 <br/>
 
-<!--  pixel dragon SVG background strip  -->
-<img src="https://raw.githubusercontent.com/sri-esa/sri-esa/main/pixel_dragons.svg" alt="" />
+<img src="https://raw.githubusercontent.com/sri-esa/sri-esa/main/pixel_dragons.svg" alt="pixel dragons" />
 
-<!-- pixel typing line -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=11&pause=1200&color=F472B6&center=true&vCenter=true&width=700&height=40&lines=full-stack+dev+%7C+ai+engineer+in+the+making;React+%7C+Django+%7C+Python+%7C+C%2B%2B;dreaming+in+code%2C+shipping+in+reality" />
 
 <br/>
@@ -24,23 +22,22 @@
 
 ---
 
-<div align="center">
-
 ### `> whoami`
 
-</div>
+| | |
+|---|---|
+| 🐉 **name** | Sriesa Chatterjee |
+| 📍 **location** | Kolkata, India |
+| 🎓 **status** | CSE undergrad @ IEM |
+| ⚡ **focus** | Backend · AI/ML · System Design |
+| 🔨 **building** | things that feel alive and actually work |
+| 🌱 **learning** | DSA · AI · never stopping |
+| 🤝 **open to** | backend · IoT · AI-driven solutions |
 
-```
-name       : Sriesa Chatterjee
-location   : Kolkata, India
-status     : CSE undergrad @ IEM
-focus      : Backend systems · AI/ML · System Design
-building   : things that feel alive and actually work
-learning   : DSA · AI · never stopping
-open to    : backend systems · IoT · AI-driven solutions
-```
+> *the dream doesn't build itself.*
 
 ---
+
 ## ⚡ Tech Arsenal
 
 <table>
@@ -95,15 +92,17 @@ What it does, what tech it uses, why it matters.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-esa&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=86efac&bg_color=0d0d0d00" height="160" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-esa&theme=transparent&hide_border=true&ring=f472b6&fire=86efac&currStreakLabel=f472b6&sideLabels=86efac&dates=888888" width="58%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-esa&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=86efac&bg_color=0d0d0d00" height="160" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-esa&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=f472b6&line=86efac&point=f472b6" width="96%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-esa&theme=transparent&hide_border=true&ring=f472b6&fire=86efac&currStreakLabel=f472b6&sideLabels=86efac&dates=888888&stroke=f472b620" width="58%" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/86efac/sri-esa" alt="Sriesa's contribution chart" width="96%" />
+
 </div>
 
 ---
@@ -111,8 +110,6 @@ What it does, what tech it uses, why it matters.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a1a0f,70:1a0a12,100:0d0d0d&height=130&section=footer" />
-
-<br/>
 
 *`"build tech that feels alive — smart, helpful, and yours."`*
 
