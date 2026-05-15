@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a12,70:0a1a0f,100:0d0d0d&height=280&section=header&text=Sriesa&fontSize=80&fontColor=f472b6&fontAlignY=42&desc=you+wake+up+from+dreams+to+make+the+dream&descAlignY=63&descSize=15&descColor=86efac&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a12,70:0a1a0f,100:0d0d0d&height=320&section=header&text=Sriesa&fontSize=90&fontColor=f472b6&fontAlignY=45&fontAlign=50&desc=you+wake+up+from+dreams+to+make+the+dream&descAlignY=65&descSize=16&descColor=86efac&animation=fadeIn&fontFamily=Press+Start+2P" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&pause=1200&color=F472B6&center=true&vCenter=true&width=700&height=40&lines=full-stack+developer+%7C+ai+engineer+in+the+making;building+things+with+React+%7C+Django+%7C+Python+%7C+C%2B%2B;dreaming+in+code%2C+shipping+in+reality;git+push+origin+main+%E2%80%94+always" />
+<!--  pixel dragon SVG background strip  -->
+<img src="https://raw.githubusercontent.com/sri-esa/sri-esa/main/pixel_dragons.svg" alt="" />
+
+<!-- pixel typing line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=11&pause=1200&color=F472B6&center=true&vCenter=true&width=700&height=40&lines=full-stack+dev+%7C+ai+engineer+in+the+making;React+%7C+Django+%7C+Python+%7C+C%2B%2B;dreaming+in+code%2C+shipping+in+reality" />
 
 <br/>
 
@@ -24,20 +28,19 @@
 
 ### `> whoami`
 
-```
-name        : Sriesa Chatterjee
-location    : Kolkata, India
-status      : CSE undergrad @ IEM
-focus       : MERN . C++ in-depth projects . DSA
-building    : things that feel alive and actually work
-learning    : DSA · AI · never stopping
-open to     : ML . DL . CNN . NLP . CV
-```
-
 </div>
 
----
+```
+name       : Sriesa Chatterjee
+location   : Kolkata, India
+status     : CSE undergrad @ IEM
+focus      : Backend systems · AI/ML · System Design
+building   : things that feel alive and actually work
+learning   : DSA · AI · never stopping
+open to    : backend systems · IoT · AI-driven solutions
+```
 
+---
 ## ⚡ Tech Arsenal
 
 <table>
