@@ -28,11 +28,10 @@
 name        : Sriesa Chatterjee
 location    : Kolkata, India
 status      : CSE undergrad @ IEM
-focus       : Backend systems · AI/ML · System Design
+focus       : MERN . C++ in-depth projects . DSA
 building    : things that feel alive and actually work
-currently   : self-hosted infra on Raspberry Pi + Linux
 learning    : DSA · AI · never stopping
-open to     : backend systems · IoT · AI-driven solutions
+open to     : ML . DL . CNN . NLP . CV
 ```
 
 </div>
