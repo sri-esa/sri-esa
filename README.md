@@ -90,21 +90,19 @@ What it does, what tech it uses, why it matters.
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-esa&layout=compact&theme=transparent&hide_border=true&title_color=f472b6&text_color=86efac&bg_color=0d0d0d00" height="160" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-esa&theme=transparent&hide_border=true&ring=f472b6&fire=86efac&currStreakLabel=f472b6&sideLabels=86efac&dates=888888&stroke=f472b620" width="58%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-esa&theme=transparent&hide_border=true&ring=f472b6&fire=f472b6&currStreakLabel=f472b6&sideLabels=22c55e&dates=22c55e&stroke=f472b620" width="58%" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/86efac/sri-esa" alt="Sriesa's contribution chart" width="96%" />
+<img src="https://ghchart.rshah.org/22c55e/sri-esa" alt="contribution chart" width="96%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-esa&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=f472b6&line=22c55e&point=f472b6" width="96%" />
 
 </div>
-
 ---
 
 <div align="center">
